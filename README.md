@@ -77,12 +77,16 @@ We are following [**Contributor Covenant Code of Conduct**](.github/CODE_OF_COND
   * [Python](misc/coin_change_permutation/coinChangePer.py)
 * Equillibrium Point In Array
   * [C++](misc/equillibrium_point_in_array/equillibriumPoint.cpp)
+* Euclidean GCD
+  * [Python](misc/euclidean_gcd/EuclideanGCD.py)
 * Fibonacci XOR
   * [C++](misc/fibonacci_xor/fibonacciXor.cpp)
 * Kadane Algorithm
   * [C++](misc/kadane_algorithm/kadane.cpp)
 * Maximum Non Adjacent Sum
   * [Python](misc/maximum_non_adjacent_sum/maxNonAdjacentSum.py)
+* Nth-Prime
+  * [Python](misc/nth_prime/nthPrime.py)
 * Prime Factorization
   * [C++](misc/prime_factorization/primeFactorization.cpp)
 * Spell The Number
